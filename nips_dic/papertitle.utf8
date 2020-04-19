@@ -1,0 +1,154 @@
+1993cat	learning classification with unlabeled data virginia r. de sa
+1993cat	learning curves: asymptotic values and rate of convergence corinna cortes, l. d. jackel, sara a. solla, vladimir vapnik, john s. denker
+1993cat	bounds on the complexity of recurrent neural network implementations of finite state machines bill g. horne, don r. hush
+1993cat	structured machine learning for 'soft' classification with smoothing spline anova and stacked tuning, testing and evaluation grace wahba, yuedong wang, chong gu, ronald klein, md, barbara klein, md
+1994cat	limits on learning machine accuracy imposed by data quality corinna cortes, l. d. jackel, wan-ping chiang
+1994cat	instance-based state identification for reinforcement learning r. andrew mccallum
+1995cat	boosting decision trees harris drucker, corinna cortes
+1995cat	discovering structure in continuous variables using bayesian networks reimar hofmann, volker tresp
+1998cat	general bounds on bayes errors for regression with gaussian processes manfred opper, francesco vivarelli
+1998cat	mean field methods for classification with gaussian processes manfred opper, ole winther
+1998cat	global optimisation of neural network models via sequential sampling joão f. g. de freitas, mahesan niranjan, arnaud doucet, andrew h. gee
+1998cat	unsupervised classification with non-gaussian mixture models using ica te-won lee, michael s. lewicki, terrence j. sejnowski
+1999cat	lower bounds on the complexity of approximating continuous functions by sigmoidal neural networks michael schmitt
+1999cat	robust full bayesian methods for neural networks christophe andrieu, joão f. g. de freitas, arnaud doucet
+1999cat	approximate inference a lgorithms for two-layer bayesian networks andrew y. ng, michael i. jordan
+2000cat	some new bounds on the generalization error of combined classifiers vladimir koltchinskii, dmitriy panchenko, fernando lozano
+2000cat	direct classification with indirect data timothy x. brown
+2000cat	the unscented particle filter rudolph van der merwe, arnaud doucet, nando de freitas, eric a. wan
+2000cat	active learning for parameter estimation in bayesian networks simon tong, daphne koller
+2001cat	classifying single trial eeg: towards brain computer interfacing benjamin blankertz, gabriel curio, klaus-robert müller
+2001cat	rao-blackwellised particle filtering via data augmentation christophe andrieu, nando d. freitas, arnaud doucet
+2001cat	partially labeled classification with markov random walks martin szummer, tommi jaakkola
+2002cat	rational kernels corinna cortes, patrick haffner, mehryar mohri
+2002cat	dynamic bayesian networks with deterministic latent tables david barber
+2002cat	vibes: a variational inference engine for bayesian networks christopher m. bishop, david spiegelhalter, john winn
+2002cat	improving transfer rates in brain computer interfacing: a case study peter meinicke, matthias kaper, florian hoppe, manfred heumann, helge ritter
+2003cat	sequential bayesian kernel regression jaco vermaak, simon j. godsill, arnaud doucet
+2003cat	auc optimization vs. error rate minimization corinna cortes, mehryar mohri
+2003cat	classification with hybrid generative/discriminative models rajat raina, yirong shen, andrew mccallum, andrew y. ng
+2003cat	classification with hybrid generative/discriminative models rajat raina, yirong shen, andrew mccallum, andrew y. ng
+2003cat	impact of an energy normalization transform on the performance of the lf-asd brain computer interface yu zhou, steven g. mason, gary e. birch
+2003cat	ara*: anytime a* with provable bounds on sub-optimality maxim likhachev, geoffrey j. gordon, sebastian thrun
+2003cat	near-minimax optimal classification with dyadic classification trees clayton scott, robert nowak
+2003cat	a sampled texture prior for image super-resolution lyndsey c. pickup, stephen j. roberts, andrew zisserman
+2004cat	support vector classification with input data uncertainty jinbo bi, tong zhang
+2004cat	confidence intervals for the area under the roc curve corinna cortes, mehryar mohri
+2004cat	sampling methods for unsupervised learning rob fergus, andrew zisserman, pietro perona
+2004cat	methods towards invasive human brain computer interfaces thomas n. lal, thilo hinterberger, guido widman, michael schröder, n. j. hill, wolfgang rosenstiel, christian e. elger, niels birbaumer, bernhard schölkopf
+2004cat	conditional models of identity uncertainty with application to noun coreference andrew mccallum, ben wellner
+2004cat	dynamic bayesian networks for brain-computer interfaces pradeep shenoy, rajesh pn rao
+2005cat	group and topic discovery from relations and their attributes xuerui wang, natasha mohanty, andrew mccallum
+2005cat	modeling neuronal interactivity using dynamic bayesian networks lei zhang, dimitris samaras, nelly alia-klein, nora volkow, rita goldstein
+2006cat	on transductive regression corinna cortes, mehryar mohri
+2006cat	multi-dynamic bayesian networks karim filali, jeff a. bilmes
+2006cat	bayesian image super-resolution, continued lyndsey c. pickup, david p. capel, stephen j. roberts, andrew zisserman
+2007cat	learning visual attributes vittorio ferrari, andrew zisserman
+2007cat	bayesian policy learning with trans-dimensional mcmc matthew hoffman, arnaud doucet, nando d. freitas, ajay jasra
+2007cat	support vector machine classification with indefinite kernels ronny luss, alexandre d'aspremont
+2007cat	on ranking in survival analysis: bounds on the concordance index harald steck, balaji krishnapuram, cary dehing-oberije, philippe lambin, vikas c. raykar
+2007cat	an analysis of inference with the universum olivier chapelle, alekh agarwal, fabian h. sinz, bernhard schölkopf
+2007cat	new outer bounds on the marginal polytope david sontag, tommi s. jaakkola
+2008cat	learning bounded treewidth bayesian networks gal elidan, stephen gould
+2008cat	resolution limits of sparse coding in high dimensions sundeep rangan, vivek goyal, alyson k. fletcher
+2008cat	nonparametric regression and classification with joint sparsity constraints han liu, larry wasserman, john d. lafferty
+2008cat	supervised dictionary learning julien mairal, jean ponce, guillermo sapiro, andrew zisserman, francis r. bach
+2008cat	bounds on marginal probability distributions joris m. mooij, hilbert j. kappen
+2008cat	non-stationary dynamic bayesian networks joshua w. robinson, alexander j. hartemink
+2009cat	information-theoretic lower bounds on the oracle complexity of convex optimization alekh agarwal, martin j. wainwright, peter l. bartlett, pradeep k. ravikumar
+2009cat	information-theoretic lower bounds on the oracle complexity of convex optimization alekh agarwal, martin j. wainwright, peter l. bartlett, pradeep k. ravikumar
+2009cat	polynomial semantic indexing bing bai, jason weston, david grangier, ronan collobert, kunihiko sadamasa, yanjun qi, corinna cortes, mehryar mohri
+2009cat	bayesian nonparametric models on decomposable graphs francois caron, arnaud doucet
+2009cat	learning non-linear combinations of kernels corinna cortes, mehryar mohri, afshin rostamizadeh
+2009cat	orthogonal matching pursuit from noisy random measurements: a new analysis sundeep rangan, alyson k. fletcher
+2009cat	non-stationary continuous dynamic bayesian networks marco grzegorczyk, dirk husmeier
+2009cat	factorie: probabilistic programming via imperatively defined factor graphs andrew mccallum, karl schultz, sameer singh
+2009cat	asymptotic analysis of map estimation via the replica method and compressed sensing sundeep rangan, vivek goyal, alyson k. fletcher
+2009cat	lower bounds on minimax rates for nonparametric regression with additive sparsity and smoothness garvesh raskutti, bin yu, martin j. wainwright
+2009cat	segmenting scenes by matching image composites bryan russell, alyosha efros, josef sivic, bill freeman, andrew zisserman
+2009cat	learning label embeddings for nearest-neighbor multi-class classification with an application to speech recognition natasha singh-miller, michael collins
+2009cat	time-varying dynamic bayesian networks le song, mladen kolar, eric p. xing
+2009cat	structured output regression for detection with partial truncation andrea vedaldi, andrew zisserman
+2009cat	rethinking lda: why priors matter hanna m. wallach, david m. mimno, andrew mccallum
+2009cat	training factor graphs with reinforcement learning for efficient map inference khashayar rohanimanesh, sameer singh, andrew mccallum, michael j. black
+2010cat	fast global convergence rates of gradient methods for high-dimensional statistical recovery alekh agarwal, sahand negahban, martin j. wainwright
+2010cat	online classification with specificity constraints andrey bernstein, shie mannor, nahum shimkin
+2010cat	simultaneous object detection and ranking with weak supervision matthew blaschko, andrea vedaldi, andrew zisserman
+2010cat	learning bounds for importance weighting corinna cortes, yishay mansour, mehryar mohri
+2010cat	distributed dual averaging in networks alekh agarwal, martin j. wainwright, john c. duchi
+2010cat	copula bayesian networks gal elidan
+2010cat	inter-time segment information sharing for non-homogeneous dynamic bayesian networks dirk husmeier, frank dondelinger, sophie lebre
+2010cat	learning to count objects in images victor lempitsky, andrew zisserman
+2010cat	worst-case bounds on the quality of max-product fixed-points meritxell vinyals, jes\'us cerquides, alessandro farinelli, juan a. rodríguez-aguilar
+2010cat	lower bounds on rate of convergence of cutting plane methods xinhua zhang, ankan saha, s.v.n. vishwanathan
+2011cat	convergent bounds on the euclidean distance yoonho hwang, hee-kap ahn
+2011cat	distributed delayed stochastic optimization alekh agarwal, john c. duchi
+2011cat	stochastic convex optimization with bandit feedback alekh agarwal, dean p. foster, daniel j. hsu, sham m. kakade, alexander rakhlin
+2011cat	pylon model for semantic segmentation victor lempitsky, andrea vedaldi, andrew zisserman
+2011cat	neural reconstruction with approximate message passing (neuramp) alyson k. fletcher, sundeep rangan, lav r. varshney, aniruddha bhargava
+2011cat	query-aware mcmc michael l. wick, andrew mccallum
+2012cat	bandit algorithms boost brain computer interfaces for motor-task selection of a brain-controlled button joan fruitet, alexandra carpentier, maureen clerc, rémi munos
+2012cat	accuracy at the top stephen boyd, corinna cortes, mehryar mohri, ana radovanovic
+2012cat	imagenet classification with deep convolutional neural networks alex krizhevsky, ilya sutskever, geoffrey e. hinton
+2012cat	stochastic optimization and sparse statistical recovery: optimal algorithms for high dimensions alekh agarwal, sahand negahban, martin j. wainwright
+2012cat	map inference in chains using column generation david belanger, alexandre passos, sebastian riedel, andrew mccallum
+2012cat	approximate message passing with consistent parameter estimation and applications to sparse learning ulugbek kamilov, sundeep rangan, michael unser, alyson k. fletcher
+2012cat	density propagation and improved bounds on the partition function stefano ermon, ashish sabharwal, bart selman, carla p. gomes
+2012cat	tight bounds on profile redundancy and distinguishability jayadev acharya, hirakendu das, alon orlitsky
+2013cat	deep fisher networks for large-scale image classification karen simonyan, andrea vedaldi, andrew zisserman
+2013cat	improved and generalized upper bounds on the complexity of policy iteration bruno scherrer
+2013cat	learning kernels using local rademacher complexity corinna cortes, marius kloft, mehryar mohri
+2014cat	two-stream convolutional networks for action recognition in videos karen simonyan, andrew zisserman
+2014cat	scalable non-linear learning with adaptive polynomial expansions alekh agarwal, alina beygelzimer, daniel j. hsu, john langford, matus j. telgarsky
+2014cat	advances in learning bayesian networks of bounded treewidth siqi nie, denis d. maua, cassio p. de campos, qiang ji
+2014cat	consistent binary classification with generalized performance metrics oluwasanmi o. koyejo, nagarajan natarajan, pradeep k. ravikumar, inderjit s. dhillon
+2014cat	scalable inference for neuronal connectivity from calcium imaging alyson k. fletcher, sundeep rangan
+2014cat	asynchronous anytime sequential monte carlo brooks paige, frank wood, arnaud doucet, yee whye teh
+2015cat	learning bayesian networks with thousands of variables mauro scanagatta, cassio p. de campos, giorgio corani, marco zaffalon
+2015cat	spatial transformer networks max jaderberg, karen simonyan, andrew zisserman, koray kavukcuoglu
+2015cat	efficient and parsimonious agnostic active learning tzu-kuo huang, alekh agarwal, daniel j. hsu, john langford, robert e. schapire
+2015cat	fast convergence of regularized learning in games vasilis syrgkanis, alekh agarwal, haipeng luo, robert e. schapire
+2015cat	expectation particle belief propagation thibaut lienart, yee whye teh, arnaud doucet
+2016cat	scan order in gibbs sampling: models in which it matters and bounds on how much bryan d. he, christopher m. de sa, ioannis mitliagkas, christopher ré
+2016cat	efficient second order online learning by sketching haipeng luo, alekh agarwal, nicolò cesa-bianchi, john langford
+2016cat	learning treewidth-bounded bayesian networks with thousands of variables mauro scanagatta, giorgio corani, cassio p. de campos, marco zaffalon
+2016cat	boosting with abstention corinna cortes, giulia desalvo, mehryar mohri
+2016cat	pac reinforcement learning with rich observations akshay krishnamurthy, alekh agarwal, john langford
+2016cat	learning bayesian networks with ancestral constraints eunice yuh-jie chen, yujia shen, arthur choi, adnan darwiche
+2016cat	contextual semibandits via supervised learning oracles akshay krishnamurthy, alekh agarwal, miro dudik
+2016cat	structured prediction theory based on factor graph complexity corinna cortes, vitaly kuznetsov, mehryar mohri, scott yang
+2016cat	feature selection in functional data classification with recursive maxima hunting josé l. torrecilla, alberto suárez
+2017cat	lower bounds on the robustness to adversarial perturbations jonathan peck, joris roels, bart goossens, yvan saeys
+2017cat	introspective classification with convolutional nets long jin, justin lazarow, zhuowen tu
+2017cat	active bias: training more accurate neural networks by emphasizing high variance samples haw-shiuan chang, erik learned-miller, andrew mccallum
+2017cat	nonbacktracking bounds on the influence in independent cascade models emmanuel abbe, sanjeev kulkarni, eun jee lee
+2017cat	rigorous dynamics and consistent estimation in arbitrarily conditioned linear systems alyson k. fletcher, mojtaba sahraee-ardakan, sundeep rangan, philip schniter
+2017cat	off-policy evaluation for slate recommendation adith swaminathan, akshay krishnamurthy, alekh agarwal, miro dudik, john langford, damien jose, imed zitouni
+2017cat	clone mcmc: parallel high-dimensional gaussian gibbs sampling andrei-cristian barbos, francois caron, jean-françois giovannelli, arnaud doucet
+2017cat	learning identifiable gaussian bayesian networks in polynomial time and sample complexity asish ghoshal, jean honorio
+2017cat	filtering variational objectives chris j. maddison, john lawson, george tucker, nicolas heess, mohammad norouzi, andriy mnih, arnaud doucet, yee teh
+2018cat	connectionist temporal classification with maximum entropy regularization hu liu, sheng jin, changshui zhang
+2018cat	joint active feature acquisition and classification with variable-size set encoding hajin shim, sung ju hwang, eunho yang
+2018cat	on oracle-efficient pac rl with rich observations christoph dann, nan jiang, akshay krishnamurthy, alekh agarwal, john langford, robert e. schapire
+2018cat	generalizing tree probability estimation via bayesian networks cheng zhang, frederick a matsen iv
+2018cat	learning to navigate in cities without a map piotr mirowski, matt grimes, mateusz malinowski, karl moritz hermann, keith anderson, denis teplyashin, karen simonyan, koray kavukcuoglu, andrew zisserman, raia hadsell
+2018cat	efficient gradient computation for structured output learning with rational and tropical losses corinna cortes, vitaly kuznetsov, mehryar mohri, dmitry storcheus, scott yang
+2018cat	plug-in estimation in high-dimensional linear inverse problems: a rigorous analysis alyson k. fletcher, parthe pandit, sundeep rangan, subrata sarkar, philip schniter
+2018cat	cluster variational approximations for structure learning of continuous-time bayesian networks from incomplete data dominik linzner, heinz koeppl
+2018cat	hamiltonian variational auto-encoder anthony l. caterini, arnaud doucet, dino sejdinovic
+2018cat	compact representation of uncertainty in clustering craig greenberg, nicholas monath, ari kobren, patrick flaherty, andrew mcgregor, andrew mccallum
+2018cat	robust learning of fixed-structure bayesian networks yu cheng, ilias diakonikolas, daniel kane, alistair stewart
+2018cat	multi-value rule sets for interpretable classification with feature-efficient representations tong wang
+2019cat	on the calibration of multiclass classification with rejection chenri ni, nontawat charoenphakdee, junya honda, masashi sugiyama
+2019cat	augmented neural odes emilien dupont, arnaud doucet, yee whye teh
+2019cat	scalable structure learning of continuous-time bayesian networks from incomplete data dominik linzner, michael schmidt, heinz koeppl
+2019cat	regularized gradient boosting corinna cortes, mehryar mohri, dmitry storcheus
+2019cat	learning gans and ensembles using discrepancy ben adlam, corinna cortes, mehryar mohri, ningshan zhang
+2019cat	lower bounds on adversarial robustness from optimal transport arjun nitin bhagoji, daniel cullina, prateek mittal
+2019cat	learning bayesian networks with low rank conditional probability tables adarsh barik, jean honorio
+2019cat	equal opportunity in online classification with partial feedback yahav bechavod, katrina ligett, aaron roth, bo waggoner, steven z. wu
+2019cat	unsupervised learning of object keypoints for perception and control tejas d. kulkarni, ankush gupta, catalin ionescu, sebastian borgeaud, malcolm reynolds, andrew zisserman, volodymyr mnih
+2019cat	bias correction of learned generative models using likelihood-free importance weighting aditya grover, jiaming song, ashish kapoor, kenneth tran, alekh agarwal, eric j. horvitz, stefano ermon
+2019cat	sim2real transfer learning for 3d human pose estimation: motion to the rescue carl doersch, andrew zisserman
+2019cat	search-guided, lightly-supervised training of structured prediction energy networks amirmohammad rooshenas, dongxu zhang, gopal sharma, andrew mccallum
+2019cat	input-output equivalence of unitary and contractive rnns melikasadat emami, mojtaba sahraee ardakan, sundeep rangan, alyson k. fletcher
