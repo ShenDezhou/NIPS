@@ -3,7 +3,7 @@ import os
 from sklearn.feature_extraction.text import TfidfVectorizer
 import codecs
 import numpy
-from nltk.stem.snowball import SnowballStemmer
+#from nltk.stem.snowball import SnowballStemmer
 
 import argparse
 parser = argparse.ArgumentParser()
