@@ -1,0 +1,20 @@
+1993cat	bounds on the complexity of recurrent neural network implementations of finite state machines bill g. horne, don r. hush
+1998cat	general bounds on bayes errors for regression with gaussian processes manfred opper, francesco vivarelli
+1999cat	lower bounds on the complexity of approximating continuous functions by sigmoidal neural networks michael schmitt
+2000cat	some new bounds on the generalization error of combined classifiers vladimir koltchinskii, dmitriy panchenko, fernando lozano
+2003cat	ara*: anytime a* with provable bounds on sub-optimality maxim likhachev, geoffrey j. gordon, sebastian thrun
+2007cat	on ranking in survival analysis: bounds on the concordance index harald steck, balaji krishnapuram, cary dehing-oberije, philippe lambin, vikas c. raykar
+2007cat	new outer bounds on the marginal polytope david sontag, tommi s. jaakkola
+2008cat	bounds on marginal probability distributions joris m. mooij, hilbert j. kappen
+2009cat	information-theoretic lower bounds on the oracle complexity of convex optimization alekh agarwal, martin j. wainwright, peter l. bartlett, pradeep k. ravikumar
+2009cat	lower bounds on minimax rates for nonparametric regression with additive sparsity and smoothness garvesh raskutti, bin yu, martin j. wainwright
+2010cat	worst-case bounds on the quality of max-product fixed-points meritxell vinyals, jes\'us cerquides, alessandro farinelli, juan a. rodríguez-aguilar
+2010cat	lower bounds on rate of convergence of cutting plane methods xinhua zhang, ankan saha, s.v.n. vishwanathan
+2011cat	convergent bounds on the euclidean distance yoonho hwang, hee-kap ahn
+2012cat	density propagation and improved bounds on the partition function stefano ermon, ashish sabharwal, bart selman, carla p. gomes
+2012cat	tight bounds on profile redundancy and distinguishability jayadev acharya, hirakendu das, alon orlitsky
+2013cat	improved and generalized upper bounds on the complexity of policy iteration bruno scherrer
+2016cat	scan order in gibbs sampling: models in which it matters and bounds on how much bryan d. he, christopher m. de sa, ioannis mitliagkas, christopher ré
+2017cat	lower bounds on the robustness to adversarial perturbations jonathan peck, joris roels, bart goossens, yvan saeys
+2017cat	nonbacktracking bounds on the influence in independent cascade models emmanuel abbe, sanjeev kulkarni, eun jee lee
+2019cat	lower bounds on adversarial robustness from optimal transport arjun nitin bhagoji, daniel cullina, prateek mittal

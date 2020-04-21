@@ -1,0 +1,12 @@
+1994cat	instance-based state identification for reinforcement learning r. andrew mccallum
+2003cat	classification with hybrid generative/discriminative models rajat raina, yirong shen, andrew mccallum, andrew y. ng
+2004cat	conditional models of identity uncertainty with application to noun coreference andrew mccallum, ben wellner
+2005cat	group and topic discovery from relations and their attributes xuerui wang, natasha mohanty, andrew mccallum
+2009cat	factorie: probabilistic programming via imperatively defined factor graphs andrew mccallum, karl schultz, sameer singh
+2009cat	rethinking lda: why priors matter hanna m. wallach, david m. mimno, andrew mccallum
+2009cat	training factor graphs with reinforcement learning for efficient map inference khashayar rohanimanesh, sameer singh, andrew mccallum, michael j. black
+2011cat	query-aware mcmc michael l. wick, andrew mccallum
+2012cat	map inference in chains using column generation david belanger, alexandre passos, sebastian riedel, andrew mccallum
+2017cat	active bias: training more accurate neural networks by emphasizing high variance samples haw-shiuan chang, erik learned-miller, andrew mccallum
+2018cat	compact representation of uncertainty in clustering craig greenberg, nicholas monath, ari kobren, patrick flaherty, andrew mcgregor, andrew mccallum
+2019cat	search-guided, lightly-supervised training of structured prediction energy networks amirmohammad rooshenas, dongxu zhang, gopal sharma, andrew mccallum

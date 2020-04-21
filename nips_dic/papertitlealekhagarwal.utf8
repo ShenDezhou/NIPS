@@ -1,0 +1,16 @@
+2007cat	an analysis of inference with the universum olivier chapelle, alekh agarwal, fabian h. sinz, bernhard schölkopf
+2009cat	information-theoretic lower bounds on the oracle complexity of convex optimization alekh agarwal, martin j. wainwright, peter l. bartlett, pradeep k. ravikumar
+2010cat	fast global convergence rates of gradient methods for high-dimensional statistical recovery alekh agarwal, sahand negahban, martin j. wainwright
+2010cat	distributed dual averaging in networks alekh agarwal, martin j. wainwright, john c. duchi
+2011cat	distributed delayed stochastic optimization alekh agarwal, john c. duchi
+2011cat	stochastic convex optimization with bandit feedback alekh agarwal, dean p. foster, daniel j. hsu, sham m. kakade, alexander rakhlin
+2012cat	stochastic optimization and sparse statistical recovery: optimal algorithms for high dimensions alekh agarwal, sahand negahban, martin j. wainwright
+2014cat	scalable non-linear learning with adaptive polynomial expansions alekh agarwal, alina beygelzimer, daniel j. hsu, john langford, matus j. telgarsky
+2015cat	efficient and parsimonious agnostic active learning tzu-kuo huang, alekh agarwal, daniel j. hsu, john langford, robert e. schapire
+2015cat	fast convergence of regularized learning in games vasilis syrgkanis, alekh agarwal, haipeng luo, robert e. schapire
+2016cat	efficient second order online learning by sketching haipeng luo, alekh agarwal, nicolò cesa-bianchi, john langford
+2016cat	pac reinforcement learning with rich observations akshay krishnamurthy, alekh agarwal, john langford
+2016cat	contextual semibandits via supervised learning oracles akshay krishnamurthy, alekh agarwal, miro dudik
+2017cat	off-policy evaluation for slate recommendation adith swaminathan, akshay krishnamurthy, alekh agarwal, miro dudik, john langford, damien jose, imed zitouni
+2018cat	on oracle-efficient pac rl with rich observations christoph dann, nan jiang, akshay krishnamurthy, alekh agarwal, john langford, robert e. schapire
+2019cat	bias correction of learned generative models using likelihood-free importance weighting aditya grover, jiaming song, ashish kapoor, kenneth tran, alekh agarwal, eric j. horvitz, stefano ermon

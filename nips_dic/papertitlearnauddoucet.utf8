@@ -1,0 +1,13 @@
+1998cat	global optimisation of neural network models via sequential sampling joão f. g. de freitas, mahesan niranjan, arnaud doucet, andrew h. gee
+1999cat	robust full bayesian methods for neural networks christophe andrieu, joão f. g. de freitas, arnaud doucet
+2000cat	the unscented particle filter rudolph van der merwe, arnaud doucet, nando de freitas, eric a. wan
+2001cat	rao-blackwellised particle filtering via data augmentation christophe andrieu, nando d. freitas, arnaud doucet
+2003cat	sequential bayesian kernel regression jaco vermaak, simon j. godsill, arnaud doucet
+2007cat	bayesian policy learning with trans-dimensional mcmc matthew hoffman, arnaud doucet, nando d. freitas, ajay jasra
+2009cat	bayesian nonparametric models on decomposable graphs francois caron, arnaud doucet
+2014cat	asynchronous anytime sequential monte carlo brooks paige, frank wood, arnaud doucet, yee whye teh
+2015cat	expectation particle belief propagation thibaut lienart, yee whye teh, arnaud doucet
+2017cat	clone mcmc: parallel high-dimensional gaussian gibbs sampling andrei-cristian barbos, francois caron, jean-françois giovannelli, arnaud doucet
+2017cat	filtering variational objectives chris j. maddison, john lawson, george tucker, nicolas heess, mohammad norouzi, andriy mnih, arnaud doucet, yee teh
+2018cat	hamiltonian variational auto-encoder anthony l. caterini, arnaud doucet, dino sejdinovic
+2019cat	augmented neural odes emilien dupont, arnaud doucet, yee whye teh

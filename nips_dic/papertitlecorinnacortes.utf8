@@ -1,0 +1,17 @@
+1993cat	learning curves: asymptotic values and rate of convergence corinna cortes, l. d. jackel, sara a. solla, vladimir vapnik, john s. denker
+1994cat	limits on learning machine accuracy imposed by data quality corinna cortes, l. d. jackel, wan-ping chiang
+1995cat	boosting decision trees harris drucker, corinna cortes
+2002cat	rational kernels corinna cortes, patrick haffner, mehryar mohri
+2003cat	auc optimization vs. error rate minimization corinna cortes, mehryar mohri
+2004cat	confidence intervals for the area under the roc curve corinna cortes, mehryar mohri
+2006cat	on transductive regression corinna cortes, mehryar mohri
+2009cat	polynomial semantic indexing bing bai, jason weston, david grangier, ronan collobert, kunihiko sadamasa, yanjun qi, corinna cortes, mehryar mohri
+2009cat	learning non-linear combinations of kernels corinna cortes, mehryar mohri, afshin rostamizadeh
+2010cat	learning bounds for importance weighting corinna cortes, yishay mansour, mehryar mohri
+2012cat	accuracy at the top stephen boyd, corinna cortes, mehryar mohri, ana radovanovic
+2013cat	learning kernels using local rademacher complexity corinna cortes, marius kloft, mehryar mohri
+2016cat	boosting with abstention corinna cortes, giulia desalvo, mehryar mohri
+2016cat	structured prediction theory based on factor graph complexity corinna cortes, vitaly kuznetsov, mehryar mohri, scott yang
+2018cat	efficient gradient computation for structured output learning with rational and tropical losses corinna cortes, vitaly kuznetsov, mehryar mohri, dmitry storcheus, scott yang
+2019cat	regularized gradient boosting corinna cortes, mehryar mohri, dmitry storcheus
+2019cat	learning gans and ensembles using discrepancy ben adlam, corinna cortes, mehryar mohri, ningshan zhang
