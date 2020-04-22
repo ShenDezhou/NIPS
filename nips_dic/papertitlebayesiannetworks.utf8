@@ -1,24 +1,24 @@
-1995cat	discovering structure in continuous variables using bayesian networks reimar hofmann, volker tresp
-1999cat	approximate inference a lgorithms for two-layer bayesian networks andrew y. ng, michael i. jordan
-2000cat	active learning for parameter estimation in bayesian networks simon tong, daphne koller
-2002cat	dynamic bayesian networks with deterministic latent tables david barber
-2002cat	vibes: a variational inference engine for bayesian networks christopher m. bishop, david spiegelhalter, john winn
-2004cat	dynamic bayesian networks for brain-computer interfaces pradeep shenoy, rajesh pn rao
-2005cat	modeling neuronal interactivity using dynamic bayesian networks lei zhang, dimitris samaras, nelly alia-klein, nora volkow, rita goldstein
-2006cat	multi-dynamic bayesian networks karim filali, jeff a. bilmes
-2008cat	learning bounded treewidth bayesian networks gal elidan, stephen gould
-2008cat	non-stationary dynamic bayesian networks joshua w. robinson, alexander j. hartemink
-2009cat	non-stationary continuous dynamic bayesian networks marco grzegorczyk, dirk husmeier
-2009cat	time-varying dynamic bayesian networks le song, mladen kolar, eric p. xing
-2010cat	copula bayesian networks gal elidan
-2010cat	inter-time segment information sharing for non-homogeneous dynamic bayesian networks dirk husmeier, frank dondelinger, sophie lebre
-2014cat	advances in learning bayesian networks of bounded treewidth siqi nie, denis d. maua, cassio p. de campos, qiang ji
-2015cat	learning bayesian networks with thousands of variables mauro scanagatta, cassio p. de campos, giorgio corani, marco zaffalon
-2016cat	learning treewidth-bounded bayesian networks with thousands of variables mauro scanagatta, giorgio corani, cassio p. de campos, marco zaffalon
-2016cat	learning bayesian networks with ancestral constraints eunice yuh-jie chen, yujia shen, arthur choi, adnan darwiche
-2017cat	learning identifiable gaussian bayesian networks in polynomial time and sample complexity asish ghoshal, jean honorio
-2018cat	generalizing tree probability estimation via bayesian networks cheng zhang, frederick a matsen iv
-2018cat	cluster variational approximations for structure learning of continuous-time bayesian networks from incomplete data dominik linzner, heinz koeppl
-2018cat	robust learning of fixed-structure bayesian networks yu cheng, ilias diakonikolas, daniel kane, alistair stewart
-2019cat	scalable structure learning of continuous-time bayesian networks from incomplete data dominik linzner, michael schmidt, heinz koeppl
-2019cat	learning bayesian networks with low rank conditional probability tables adarsh barik, jean honorio
+1995 discovering structure in continuous variables using bayesian networks reimar hofmann, volker tresp
+1999 approximate inference a lgorithms for two-layer bayesian networks andrew y. ng, michael i. jordan
+2000 active learning for parameter estimation in bayesian networks simon tong, daphne koller
+2002 dynamic bayesian networks with deterministic latent tables david barber
+2002 vibes: a variational inference engine for bayesian networks christopher m. bishop, david spiegelhalter, john winn
+2004 dynamic bayesian networks for brain-computer interfaces pradeep shenoy, rajesh pn rao
+2005 modeling neuronal interactivity using dynamic bayesian networks lei zhang, dimitris samaras, nelly alia-klein, nora volkow, rita goldstein
+2006 multi-dynamic bayesian networks karim filali, jeff a. bilmes
+2008 learning bounded treewidth bayesian networks gal elidan, stephen gould
+2008 non-stationary dynamic bayesian networks joshua w. robinson, alexander j. hartemink
+2009 non-stationary continuous dynamic bayesian networks marco grzegorczyk, dirk husmeier
+2009 time-varying dynamic bayesian networks le song, mladen kolar, eric p. xing
+2010 copula bayesian networks gal elidan
+2010 inter-time segment information sharing for non-homogeneous dynamic bayesian networks dirk husmeier, frank dondelinger, sophie lebre
+2014 advances in learning bayesian networks of bounded treewidth siqi nie, denis d. maua, cassio p. de campos, qiang ji
+2015 learning bayesian networks with thousands of variables mauro scanagatta, cassio p. de campos, giorgio corani, marco zaffalon
+2016 learning treewidth-bounded bayesian networks with thousands of variables mauro scanagatta, giorgio corani, cassio p. de campos, marco zaffalon
+2016 learning bayesian networks with ancestral constraints eunice yuh-jie chen, yujia shen, arthur choi, adnan darwiche
+2017 learning identifiable gaussian bayesian networks in polynomial time and sample complexity asish ghoshal, jean honorio
+2018 generalizing tree probability estimation via bayesian networks cheng zhang, frederick a matsen iv
+2018 cluster variational approximations for structure learning of continuous-time bayesian networks from incomplete data dominik linzner, heinz koeppl
+2018 robust learning of fixed-structure bayesian networks yu cheng, ilias diakonikolas, daniel kane, alistair stewart
+2019 scalable structure learning of continuous-time bayesian networks from incomplete data dominik linzner, michael schmidt, heinz koeppl
+2019 learning bayesian networks with low rank conditional probability tables adarsh barik, jean honorio
